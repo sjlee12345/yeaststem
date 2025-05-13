@@ -1,0 +1,27 @@
+ul{
+    list-style-type: none;
+    padding-left: 0;
+    float: left;
+}
+li{
+    font-size: 20;
+    padding-left: 10;
+    display: inline-block;
+}
+.title{
+    font-style:italic;
+
+}
+.navcontainer{
+    background-color: #4285f4ff;
+    width: 100%;
+    height: 100%;
+    align-content: center;
+}
+body{
+    color: white !important;
+}
+a{
+    color: white !important;
+    text-decoration: none;
+}

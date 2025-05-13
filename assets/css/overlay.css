@@ -1,0 +1,32 @@
+p{
+    opacity: 0;
+    width: 100%;
+    top: 30%;
+    bottom: 50%;
+    position:fixed;
+    font-family: Arial;
+}
+body:hover p{
+    text-align: center;
+    font-size: 25px;
+    z-index: 1;
+    position:fixed;
+    width: 100%;
+    top: 30%;
+    bottom: 50%;
+    opacity: 100%;
+    color: black;
+}
+img{
+    position: absolute;
+    x: 0;
+    y: 0;
+    z-index: -1;
+    opacity: 100%;
+}
+body:hover img{
+    opacity: 30%;
+}
+body{
+    overflow: hidden;
+}
