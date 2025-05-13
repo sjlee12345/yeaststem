@@ -10,6 +10,7 @@ iframe{
 body{
     font-family: arial !important;
     text-align: center;
+    background: radial-gradient(#6c8bfd96, #061af196);
 }
 i{
     transform: scale(3,3);
