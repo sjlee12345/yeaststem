@@ -20,6 +20,7 @@ p{
     font-weight: 11px;
     margin-left: 15%;
     margin-right: 15%;
+    justify-content: center;
 }
 ol{
     display: inline-block;
@@ -27,6 +28,7 @@ ol{
 h1{
     font-weight: bold !important;
     text-decoration: underline;
+    font-size: 20px;
 }
 table, tr, td{
     border: 1px solid black;
