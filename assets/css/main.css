@@ -48,6 +48,7 @@ tr.header td{
     margin: 20px;
 }
 .card{
+    padding-top: 5px;
     border-radius: 10px;
     height: 400;
     width: 300;
@@ -61,6 +62,6 @@ tr.header td{
     margin: 30px;
 }
 .card:hover{
-    transform: scale(1.01, 1.01);
+    transform: scale(1.03, 1.03);
     background-color: rgba(128, 128, 128, 0.3);
 }
